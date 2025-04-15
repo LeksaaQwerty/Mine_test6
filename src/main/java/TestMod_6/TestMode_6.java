@@ -12,14 +12,15 @@ import cpw.mods.fml.common.registry.GameRegistry;
 public class TestMode_6 {
 	
 	public static Item itemTable;
+	public static Item itemStol;
 	
 	 @EventHandler
 	  public void preInit(FMLPreInitializationEvent event) {
-	    itemTable = new ItemTable().setUnlocalizedName("ItemTable").setTextureName("tm:itemtable");
-	  
+	    itemTable = new ItemTable().setUnlocalizedName("ItemTable");
+	    itemStol = new ItemStol().setUnlocalizedName("ItemStol");
 	    
 	    GameRegistry.registerItem(itemTable, itemTable.getUnlocalizedName().substring(5));
-	    //GameRegistry.registerItem(itemStul, itemStul.getUnlocalizedName().substring(5));
+	    GameRegistry.registerItem(itemStol, itemStol.getUnlocalizedName().substring(5));
 	  }
 	  
 	  @EventHandler
