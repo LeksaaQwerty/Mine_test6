@@ -1,11 +1,35 @@
-[18:03:37] [main/INFO]: Setting user: Player448
-[18:03:37] [Client thread/INFO]: LWJGL Version: 2.9.1
-[18:03:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Test Mode v6
-[18:03:43] [Sound Library Loader/INFO]: Sound engine started
-[18:03:44] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[18:03:44] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[18:03:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Test Mode v6
-[18:03:44] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:03:44] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:03:45] [Sound Library Loader/INFO]: Sound engine started
-[18:03:51] [Client thread/INFO]: Stopping!
+[19:24:15] [main/INFO]: Setting user: Player973
+[19:24:17] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:24:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Test Mode v6
+[19:24:26] [Sound Library Loader/INFO]: Sound engine started
+[19:24:27] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:24:27] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:24:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Test Mode v6
+[19:24:27] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:24:27] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:24:28] [Sound Library Loader/INFO]: Sound engine started
+[19:24:49] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:24:49] [Server thread/INFO]: Generating keypair
+[19:24:50] [Server thread/INFO]: Converting map!
+[19:24:50] [Server thread/INFO]: Scanning folders...
+[19:24:50] [Server thread/INFO]: Total conversion count is 0
+[19:24:50] [Server thread/INFO]: Preparing start region for level 0
+[19:24:51] [Server thread/INFO]: Preparing spawn area: 20%
+[19:24:52] [Server thread/INFO]: Preparing spawn area: 52%
+[19:24:53] [Server thread/INFO]: Preparing spawn area: 78%
+[19:24:54] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:24:54] [Server thread/INFO]: Player973[local:E:3d9f4086] logged in with entity id 288 at (3.5, 73.0, 251.5)
+[19:24:54] [Server thread/INFO]: Player973 joined the game
+[19:25:09] [Server thread/INFO]: [Player973: Given [tile.BlockTable.name] * 1 to Player973]
+[19:25:09] [Client thread/INFO]: [CHAT] Given [tile.BlockTable.name] * 1 to Player973
+[19:25:17] [Server thread/INFO]: Saving and pausing game...
+[19:25:17] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:25:17] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:25:17] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:25:23] [Client thread/INFO]: Stopping!
+[19:25:23] [Server thread/INFO]: Stopping server
+[19:25:23] [Server thread/INFO]: Saving players
+[19:25:23] [Server thread/INFO]: Saving worlds
+[19:25:23] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:25:23] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:25:23] [Server thread/INFO]: Saving chunks for level 'New World'/The End
