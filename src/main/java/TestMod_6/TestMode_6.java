@@ -25,7 +25,7 @@ public class TestMode_6 {
 	  
 	  @EventHandler
 	  public void init(FMLInitializationEvent event){
-	    
+		  log.info("Modblock initialized");
 	  }
 	  
 	  @EventHandler
